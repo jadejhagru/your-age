@@ -1,6 +1,6 @@
 //Challenge 1: Your Age in DAYS 
 
-function ageInDays(){
+function ageInDays() {
 var birthYear = prompt("What year were you born good friend?");
 var finalAge = (2021 - birthYear) * 365;
 var h1 = document.createElement("h1");
